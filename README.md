@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Hritik Saini 👋
 
-<!--
-**5a1n1hritik/5a1n1hritik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full Stack Engineer who loves breaking down complex software bottlenecks, engineering high-throughput automation systems, and writing high-performance backend architectures. 
 
-Here are some ideas to get you started:
+- 🚀 Currently engineering a high-performance developer workspace engine in **Rust**.
+- 📊 Built a biological data ingestion pipeline processing **14,000+ species** data using Python.
+- 🛠️ Deeply comfortable in **Linux (Manjaro/Arch)** development environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** TypeScript, JavaScript, Python, Rust, Java, SQL
+- **Frontend:** Next.js, React.js, Tailwind CSS
+- **Backend & DB:** Node.js, Express.js, FastAPI, PostgreSQL, MongoDB, MySQL
+- **ORMs & Tools:** Drizzle ORM, Prisma, Git, GitHub, Postman, Linux
+
+### ⚡ What I Value
+Writing clean, maintainable, and type-safe code; solving tricky data serialization and state management challenges; and working in fast-paced startup environments where I can own products from scratch.
